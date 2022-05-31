@@ -42,7 +42,7 @@
 
 # Repositórios de estudo
 
-- Frameworks de Front End - https://github.com/gerlaneln/sgcmapp (em desenvolvimento)
+- Frameworks de Front End - https://github.com/gerlaneln/sgcmapp 
   - Tecnologias utilizadas
     - Type Script
     - Java Script
