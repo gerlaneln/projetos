@@ -42,6 +42,17 @@
 
 # Repositórios de estudo
 
+- Integração contínua da aplicação SGCM (desenvolvida em disciplinas anteriores) - https://github.com/gerlaneln/integracao-continua-wa
+  - Tecnologias utilizadas
+    - Java
+    - GitHub Actions
+    - Heroku
+
+- Testes Cypress na aplicação SGCM (desenvolvida em disciplinas anteriores) - https://github.com/gerlaneln/Cypress-SGCM
+  - Tecnologias utilizadas
+    - Java Script
+    - Cypress 4.1
+
 - Frameworks de Front End - https://github.com/gerlaneln/sgcmapp 
   - Tecnologias utilizadas
     - Type Script
