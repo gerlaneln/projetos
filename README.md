@@ -42,6 +42,15 @@
 
 # Repositórios de estudo
 
+
+- Programação avançada Back End - https://github.com/webacademyufac/programacao-avancada-backend_gerlane
+  - Tecnologias utilizadas
+    - HTML
+    - CSS
+    - JavaScript
+    - NodeJS
+    - MongoDB (mongoose)
+
 - Integração contínua da aplicação SGCM (desenvolvida em disciplinas anteriores) - https://github.com/gerlaneln/integracao-continua-wa
   - Tecnologias utilizadas
     - Java
