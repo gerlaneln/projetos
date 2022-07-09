@@ -43,7 +43,7 @@
 # Repositórios de estudo
 
 
-- Programação avançada Back End - https://github.com/webacademyufac/programacao-avancada-backend_gerlane
+- Programação avançada Back End - https://github.com/gerlaneln/programacao-avancada-backend-gerlane
   - Tecnologias utilizadas
     - HTML
     - CSS
