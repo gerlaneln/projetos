@@ -2,12 +2,13 @@
     
 # Projetos pessoais e participação em processos seletivos
 
-- Portifólio ReactJS - https://github.com/gerlaneln/Portifolio-React (em andamento)
+- Portifólio Angular - https://github.com/gerlaneln/gerlaneln
   - Tecnologias utilizadas
     - HTML
     - CSS
-    - Java Script
-    - React JS
+    - Type Script
+    - Angular 13
+    - Materialize CSS
 
 - InCicle - https://github.com/gerlaneln/incicle-frontend-test
   - Tecnologias utilizadas
