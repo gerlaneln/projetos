@@ -1,5 +1,6 @@
 # projetos
-    
+    <img width="526" height="289" alt="image" src="https://github.com/user-attachments/assets/dce7d796-6942-4ffc-9332-daae4548a78d" />
+
 # Projetos pessoais e participação em processos seletivos
 
 - Portifólio Angular - https://github.com/gerlaneln/gerlaneln
